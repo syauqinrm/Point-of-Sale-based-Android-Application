@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Point Of Sale</string>
+    <string name="back_login_btn">Back_login_btn</string>
+    <string name="tumbnail_login_settings">LOGIN SETTINGS</string>
+    <string name="polines_login_btn">Polines_Login_Btn</string>
+    <string name="login_txt_btn">LOGIN</string>
+    <string name="login_img">Login_img</string>
+    <string name="username_txt">Username</string>
+    <string name="password_txt">*********</string>
+    <string name="katalog_barang">Katalog Barang</string>
+    <string name="ic_back" />
+    <string name="seting_aplikasi" />
+    <string name="rekapan_belanja">Rekapan Belanja</string>
+    <string name="rekap" />
+    <string name="setting_aplikasi">SETTING APLIKASI</string>
+    <string name="barang">BARANG</string>
+    <string name="daftar">DAFTAR</string>
+    <string name="minggu_2">MINGGU 2</string>
+    <string name="minggu_1">MINGGU 1</string>
+    <string name="sampul">SAMPUL</string>
+    <string name="_29_desember">29 DESEMBER</string>
+    <string name="minggu">MINGGU 1</string>
+    <string name="todo">TODO</string>
+    <string name="laporan">LAPORAN</string>
+    <string name="todooo">todooo</string>
+    <string name="todooooo">todooooo</string>
+    <string name="_30_desember">30 desember</string>
+    <string name="todoooo">todoooo</string>
+    <string name="bulanan">BULANAN</string>
+
+    <string name="List_Menu">List Menu</string>
+    <string name="Masukkan_tanggal_pemesanan">Masukkan tanggal pemesanan</string>
+    <string name="Masukkan_nama_lengkap">Masukkan nama lengkap</string>
+
+    <string name="input_jumlah">0</string>
+    <string name="barang1">KertasHVSA4</string>
+    <string name="harga_barang1">48900</string>
+
+    <string name="barang2">Spidol</string>
+    <string name="harga_barang2">5000</string>
+    <string name="input_jumlah2">0</string>
+
+    <string name="barang3">Pensil</string>
+    <string name="harga_barang3">3000</string>
+    <string name="input_jumlah3">0</string>
+
+    <string name="barang4">Buku Tulis</string>
+    <string name="harga_barang4">2000</string>
+    <string name="input_jumlah4">0</string>
+
+    <string name="barang5">Penghapus</string>
+    <string name="harga_barang5">3000</string>
+    <string name="input_jumlah5">0</string>
+
+    <string name="barang6">Penggaris</string>
+    <string name="harga_barang6">5000</string>
+    <string name="input_jumlah6">0</string>
+
+    <string name="pesan">Pesan</string>
+
+    <string name="desc">Image</string>
+    <string name="_200_000">200.000</string>
+    <string name="febuari">FEBUARI</string>
+    <string name="rp_400_000">Rp 400.000</string>
+    <string name="januari">januari</string>
+    <string name="rp_550_000">Rp 550.000</string>
+    <string name="maret">MARET</string>
+    <string name="rp_1_000_000">Rp 1.000.000</string>
+    <string name="april">APRIL</string>
+    <string name="rp_800_000">Rp 800.000</string>
+    <string name="mei">MEI</string>
+    <string name="rp_2_000_000">Rp 2.000.000</string>
+    <string name="juni">JUNI</string>
+    <string name="rp_920_000">Rp 920.000</string>
+    <string name="juli">JULI</string>
+    <string name="agustus">AGUSTUS</string>
+    <string name="rp_700_000">Rp 700.000</string>
+    <string name="september">SEPTEMBER</string>
+    <string name="rp_750_000">Rp 750.000</string>
+    <string name="rp_980_000">Rp 980.000</string>
+    <string name="oktober">OKTOBER</string>
+    <string name="rp_900_000">Rp 900.000</string>
+    <string name="november">NOVEMBER</string>
+    <string name="rp_500_000">Rp 500.000</string>
+    <string name="desember">DESEMBER</string>
+</resources>
